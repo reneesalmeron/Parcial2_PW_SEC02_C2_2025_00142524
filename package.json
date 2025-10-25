@@ -1,0 +1,26 @@
+{
+  "name": "parcial2_pw_sec02_c2_2025_00142524",
+  "version": "1.0.0",
+  "description": "Laboratorio 7 de web",
+  "main": "App.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reneesalmeron/Parcial2_PW_SEC02_C2_2025_00142524.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reneesalmeron/Parcial2_PW_SEC02_C2_2025_00142524/issues"
+  },
+  "homepage": "https://github.com/reneesalmeron/Parcial2_PW_SEC02_C2_2025_00142524#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
